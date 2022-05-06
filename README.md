@@ -41,6 +41,7 @@ Caso queira visualizar as tabelas através do prisma studio,<br/>
 npx prisma studio
 ```
 
+**Observação**: Lembre-se de alterar as informações do mailtrap ou qualquer que seja o serviço de envio de e-mail que você utilizará para as informações de sua conta em **nodemailerMailAdapter.ts**.
 
 ## 🎏 Rota
 
